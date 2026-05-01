@@ -1,18 +1,65 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar Singh</h1>
-<h3 align="center">“Building Machine Learning systems & scalable backend services”</h3>
+<h3 align="center">🚀 ML Engineer | Backend Developer | Building Scalable Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhchandel8989&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhchandel8989" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhchandel8989" alt="rishabhchandel8989" /></a> </p>
+## 🧠 About Me
+I’m a Computer Science student focused on building **real-world machine learning systems** and **scalable backend architectures**.
 
-- 📫 How to reach me **singhrishabh6062@gmail.com**
+- 🔭 Currently building: **AI-powered systems & backend APIs**
+- ⚙️ Strong in: Backend development, system design basics, and ML pipelines  
+- 🌱 Exploring: Distributed systems & production-grade ML deployment  
+- 🎯 Goal: Become an engineer who builds **high-impact, scalable products**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/232110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="232110" height="30" width="40" /></a>
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Smart Expense Categorization (ML + Azure)
+- Built an ML model to automatically classify expenses  
+- Integrated with backend APIs for real-time predictions  
+- Focus: Practical ML deployment  
+
+### 🔹 Medical History Management System
+- Full-stack app (React + Node.js + MySQL)  
+- Secure authentication + patient record handling  
+- Focus: Real-world system design & data handling  
+
+### 🔹 Crop Recommendation System
+- ML model based on soil and yield data  
+- Designed for agriculture optimization  
+- Focus: Data-driven decision systems  
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:** Python, Java, C++  
+**ML & Data:** PyTorch, Scikit-learn, Pandas  
+**Backend:** Node.js, Express, Spring Boot  
+**Databases:** MySQL, PostgreSQL  
+**Tools:** Git, Docker (learning)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhchandel8989&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhchandel8989&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhchandel8989&show_icons=true&locale=en&layout=compact" alt="rishabhchandel8989" /></p>
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: singhrishabh6062@gmail.com  
+- 💻 Topcoder: https://www.topcoder.com/members/232110  
+
+---
+
+## 💡 What I Believe
+> "Good engineers write code. Great engineers build systems that scale."
