@@ -56,8 +56,7 @@ I’m a Computer Science student focused on building **real-world machine learni
 
 ## 🌐 Connect With Me
 
-- 📧 Email: singhrishabh6062@gmail.com  
-- 💻 Topcoder: https://www.topcoder.com/members/232110  
+- 📧 Email: singhrishabh6062@gmail.com   
 
 ---
 
